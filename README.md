@@ -6,8 +6,8 @@ Dự án này thực hiện việc so sánh hiệu suất của các thuật to�
 
 1. Clone repository:
 ```bash
-git clone <repository-url>
-cd Algorithms
+git clone https://github.com/uziii2208/Optimization-Algorithms.git
+cd [this project path]
 ```
 
 2. Tạo môi trường ảo Python:
