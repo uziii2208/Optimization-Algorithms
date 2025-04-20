@@ -1,0 +1,2 @@
+Optimizer,Final Train Loss,Final Train Accuracy,Final Validation Loss,Final Validation Accuracy,Convergence Time (epochs)
+SGD_lr_0.01,0.015579140000364883,99.49833333333333,0.02249257640245861,99.32,10
